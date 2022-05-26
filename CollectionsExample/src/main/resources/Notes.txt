@@ -1,0 +1,1 @@
+<!-- How to hide closed projects in eclipse https://www.viralpatel.net/hide-closed-projects-eclipse-project-explorer-view/ -->
